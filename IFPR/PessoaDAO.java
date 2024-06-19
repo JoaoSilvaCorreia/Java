@@ -12,7 +12,7 @@ import java.util.List;
 
 /**
  *
- * @author sergio
+ *
  */
 public class PessoaDAO extends GenericDAO<Integer, PessoaDAO> {
     
