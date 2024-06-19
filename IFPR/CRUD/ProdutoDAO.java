@@ -19,7 +19,7 @@ import br.edu.ifpr.model.bean.Produto;
  * dados fique misturado com outras partes da aplicação que
  * possuem outros objetivos.
  * 
- * @author Everton Fernando Baro
+ * 
  *
  */
 public class ProdutoDAO {
