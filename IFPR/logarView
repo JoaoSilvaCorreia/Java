@@ -1,4 +1,0 @@
-// BOTAÕ LOGAR ONDE É CRIADO UM OBJETO DO CONTROL
-    private void btnLogarActionPerformed(java.awt.event.ActionEvent evt) {                                         
-        LogarController login = new LogarController(txtUsuario,txtSenha,this);
-	btnLogar.addActionListener(login);
