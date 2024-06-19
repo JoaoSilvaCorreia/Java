@@ -1,6 +1,6 @@
 // Manipulação de Strings
 
-/*
+
 public class Manipulacao{
 				public static void main(String[] args){
 							String frase;
@@ -13,7 +13,7 @@ public class Manipulacao{
 							System.out.pritnln("Isso imprime o valor da variavel valor1 = " + valor1 + "e da variavel valor2 = " + valor2);
 			}
 }
-*/
+
 
 
 
@@ -24,7 +24,7 @@ public class Manipulacao{
 
 
 
-/*
+
 //Criando uma caixa de dialogo
 
 import javax.swing.JOptionPane;
@@ -36,8 +36,6 @@ public class Manipulacao{
 				JOptionPane.showMessageDialog(null, "Ola " + nome + "!");
 	}
 }
-*/
-
 
 
 
@@ -47,7 +45,7 @@ public class Manipulacao{
 
 
 
-/*
+
 import javax.swing.JOptionPane;
 
 public class Manipulacao{
