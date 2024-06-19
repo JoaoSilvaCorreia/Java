@@ -16,9 +16,8 @@ import javax.swing.JOptionPane;
 import javax.swing.JTextField;
 
 /**
- *
- * @author sergio
  */
+
 public class LogarController implements ActionListener {
     private JTextField txtUsuario ; 
     private JTextField txtSenha;
