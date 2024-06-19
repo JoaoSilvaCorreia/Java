@@ -1,3 +1,3 @@
 # JavaStudies
 
-## Repository for my Java archives 
+Repository for my Java archives 
